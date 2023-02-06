@@ -49,6 +49,7 @@ void main(){
 }
 */
 
+/*
 //Task Number 4
 void main(){
   num number1 = 5;
@@ -64,3 +65,4 @@ void main(){
   print("Penjumlahan: $hasilPenjumlahan");
   print("Pengurangan: $hasilPengurangan");
 }
+*/
